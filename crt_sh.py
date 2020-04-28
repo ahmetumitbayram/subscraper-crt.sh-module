@@ -19,8 +19,8 @@ from os.path import abspath
 
 class CRTsh():
     def __init__(self, args, target, handler):
-        self.description = "Example module"
-        self.author      = '@m8r0wn'
+        self.description = "CRT.sh Module"
+        self.author      = '@ahmetumitbayram'
         self.method      = ['scrape']
 
         self.handler     = handler
